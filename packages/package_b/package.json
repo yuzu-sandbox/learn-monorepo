@@ -1,0 +1,7 @@
+{
+  "name": "package_b",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "package_a": "workspace:^"
+  }
+}

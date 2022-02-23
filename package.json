@@ -2,7 +2,9 @@
   "name": "learn-monorepo",
   "private": true,
   "workspaces": {
-    "packages": ["packages/*"]
+    "packages": [
+      "packages/*"
+    ]
   },
   "version": "0.0.1",
   "main": "index.js",
